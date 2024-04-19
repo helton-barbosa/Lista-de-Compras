@@ -1,5 +1,5 @@
 # Lista de Compras
- Exercício - Criar uma lista de compras utilizado o tipo de dados Lista em Python
+ **Exercício** - Criar uma lista de compras utilizado o tipo de dados Lista em Python
 
 ###### Crie um programa que permita ao usuário montar uma lista de compras. O programa deve apresentar um menu com as seguintes opções:
 
